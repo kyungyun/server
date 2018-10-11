@@ -1,0 +1,225 @@
+.topbar {
+    margin-left: 150px;
+    margin-top: 10px;
+    margin-bottom: 3px;
+  }
+  
+  .home {
+    font-family: Century Gothic, sans-serif;
+    margin: -8px;
+    color: #232423;
+  }
+
+  .nav {
+    display: block;
+    margin-top: 18px;
+    margin-bottom: 18px;
+    height: 60px;
+
+  }
+
+  .nav .logo h1 {
+    margin:0px
+  }
+  
+  .topbar {
+    margin-left: 150px;
+    margin-top: 10px;
+    margin-bottom: 3px;
+  }
+  
+  .logo {
+    display: inline-block;
+    font-size: 14px;
+    color: #232423;
+    margin-left:50px;
+    float: left;
+  }
+  
+  .navbar {
+    display: inline-block;
+    float: right;
+    margin-right: 150px;
+  }
+  
+  h1,h2,h3,h4,h5,h6 {
+      color:unset;
+      margin-top: 18px;
+      margin-bottom: 18px;
+  }
+  
+  ul {
+    list-style: none;
+    display: inline-block;
+  }
+  
+  ul li {
+    display: inline-block;
+    margin-left: 40px;
+  }
+  
+  ul li a {
+    text-decoration: none;
+    color: #232423;
+  }
+  
+  ul li a:hover {
+    color: #63AAAD;
+  }
+  
+  .regbut {
+    border: 2px solid #63AAAD;
+    padding: 7px 11px;
+    border-radius: 7px;
+    transition: 0.2s;
+    color: #232423;
+  }
+  
+  .regbut:hover {
+    background: #63AAAD;
+    color: #ffffff;
+    transition: 0.2s;
+  }
+  
+  .main {
+    
+    clear: both;
+    min-height: 600px;
+    background-color: #F1F1F1;
+    margin-top: -20px;
+   
+    
+  }
+  
+  
+  .header {
+    padding-top: 100px;
+    text-align: center;
+    font-size: 40px;
+    letter-spacing: 10px;
+  }
+  
+  .header2 {
+    padding-top: 100px;
+  }
+  
+  .header p {
+    font-size: 20px;
+    letter-spacing: 6px;
+    margin-top: -10px;
+  }
+  
+  .buttons {
+    margin-top: 80px;
+  }
+  
+  .butleft {
+    float: left;
+    display: inline-block;
+    margin-left: 375px;
+    border: 2px solid black;
+    padding: 5px 30px;
+    border-radius: 4px;
+    transition: 0.5s;
+    color: #232423;
+  }
+  
+  .butleft:hover  {
+    color: #63AAAD;
+    border: 2px solid #63AAAD;
+    transition: 0.2s;
+  }
+  
+  .butright {
+    float: right;
+    display: inline-block;
+    margin-right: 375px;
+    border: 2px solid black;
+    padding: 5px 30px;
+    border-radius: 4px;
+    transition: 0.5s;
+    color: #232423;
+  }
+  
+  .butright:hover {
+    color: #63AAAD;
+    border: 2px solid #63AAAD;
+    transition: 0.2s;
+  }
+  
+  .second {
+    height: 650px;
+  }
+  
+  .blockchain {
+    margin-top: 80px;
+    text-align: center;
+    letter-spacing: 2px;
+  }
+  
+  .headb h4 {
+    font-size: 34px;
+  }
+  
+  
+  .headb p {
+    width: 700px;
+    margin: auto;
+    line-height: 30px;
+    margin-bottom: 60px;
+  }
+  
+  .emblems p:nth-child(2) {
+    font-size: 24px;
+    letter-spacing: 5px;
+  }
+  
+  .emblems p:nth-child(3) {
+    font-size: 14px;
+  }
+  
+  .emblems a {
+    text-decoration: none;
+    color: #232423;
+    transition: 0.5s;
+  }
+  
+  .emblems a:hover {
+    color: #63AAAD;
+    transition: 0.2s;
+  }
+  
+  .bitcoin {
+    display: inline-block;
+    margin-left: -40px;
+  }
+  
+  .bitcoin img {
+    width: 40%;
+    margin-bottom: 15px;
+  }
+  
+  .bitcoin p {
+    width: 500px;
+  }
+  
+  .middles {
+    width: 40px;
+    display: inline-block;
+  }
+  
+  .ethereum {
+    display: inline-block;
+  }
+  
+  .ethereum img {
+    width: 45%;
+    
+  }
+  
+  .ethereum p {
+    width: 500px;
+  }
+  
+  
+  
